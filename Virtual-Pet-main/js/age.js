@@ -18,3 +18,7 @@
             }
         }
 },60000)
+let time = document.getElementById('Timer')
+let startDate = new Date() || localStorage.getItem('startDate')
+
+time.set
